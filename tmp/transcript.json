@@ -1,0 +1,54 @@
+{
+   "Title": "Dark Souls II",
+   "Developer": "FromSoftware",
+   "Publisher": "Bandai Namco Entertainment",
+   "Release_Year": "2014",
+   "Story": {
+      "Overview": "Dark Souls II ocorre no reino de Drangleic com uma jogabilidade focada em jogador contra ambiente (PvE) e jogador contra jogador (PvP). A história é contada de maneira não linear e subjetiva, possibilitando várias interpretações sobre sua mitologia.",
+      "Connection_to_Dark_Souls": "Dark Souls II ocorre em uma parte oposta do mundo de Dark Souls, sem ligação direta com a história do primeiro jogo.",
+      "Character": "O jogador assume o papel de um personagem amaldiçoado que inicia uma peregrinação para descobrir o destino de sua espécie.",
+      "Editions_and_Sequeals": {
+         "Scholar_of_the_First_Sin": "Uma remastered version lançada em 2014 que inclui o jogo original e seu conteúdo para download com gráficos atualizados.",
+         "Dark_Souls_III": "A seqüência lançada em 2016, continuando a série de jogos de RPG de ação."
+      }
+   },
+   "Characters": [
+      {
+         "name": "Vendrick",
+         "role": "King of Drangleic",
+         "description": "Vendrick is the king of Drangleic, the location where Dark Souls II takes place. He was manipulated by his wife, Nashandra, to start a war against the land of the giants, causing great devastation."
+      },
+      {
+         "name": "Nashandra",
+         "role": "Queen of Drangleic and main antagonist",
+         "description": "Nashandra is the queen of Drangleic and the main antagonist of Dark Souls II. She manipulated Vendrick to start a war with the land of the giants for reasons that are revealed throughout the game."
+      }
+   ],
+   "Bosses": [
+      {
+         "name": "Vendrick",
+         "location": "Undead Crypt",
+         "description": "Vendrick is the king of Drangleic and one of the bosses that the player can face. He is found in the Undead Crypt and, although optional, fighting him reveals more about the game's story."
+      },
+      {
+         "name": "Nashandra",
+         "location": "Throne of Want",
+         "description": "Nashandra is the queen of Drangleic and the main antagonist of the game. She is the final boss that the player must face before completing the game."
+      },
+      {
+         "name": "The Pursuer",
+         "location": "Multiple locations",
+         "description": "The Pursuer is a recurring boss that the player encounters several times throughout the game. He is known for his aggressiveness and quick attacks."
+      },
+      {
+         "name": "The Last Giant",
+         "location": "Forest of Fallen Giants",
+         "description": "The Last Giant is the first boss that most players encounter in the game. Despite being the first, he still presents a considerable challenge to players."
+      },
+      {
+         "name": "Smelter Demon",
+         "location": "Iron Keep",
+         "description": "The Smelter Demon is an optional boss found in the Iron Keep. He is notable for his powerful fire attacks."
+      }
+   ]
+}

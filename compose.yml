@@ -1,0 +1,8 @@
+version: '3'  # Especifica a versão do Docker Compose.
+
+services:
+  redis:  # O nome do serviço (anteriormente redis-stack).
+    image: redis/redis-stack:latest  # A imagem Docker que está sendo usada.
+    ports:
+      - "6379:6379"  # Mapeia a porta do host para a porta do contêiner.
+      - "8001:8001"  # Mapeia a porta do host para a porta do contêiner.
