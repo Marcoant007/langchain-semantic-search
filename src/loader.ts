@@ -5,11 +5,13 @@ import { TokenTextSplitter } from 'langchain/text_splitter';
 import { RedisVectorStore } from 'langchain/vectorstores/redis';
 import { createClient } from 'redis';
 import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
+import dotenv from 'dotenv';
+dotenv.config();
 
 const loader = new DirectoryLoader(
     path.resolve(__dirname, '../tmp'),
     {
-        '.json': patch => new JSONLoader(patch, '/Story')
+        '.json': patch => new JSONLoader(patch, '/Bosses')
     }
 )
 
